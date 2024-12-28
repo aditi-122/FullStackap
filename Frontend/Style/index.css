@@ -1,0 +1,10 @@
+#cont {
+    border: 1px solid blueviolet;
+    background-color: rgb(169, 100, 235);
+    display: flex;
+    
+}
+#cont1{
+    display: grid(4,1fr);
+
+}
